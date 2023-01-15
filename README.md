@@ -14,5 +14,7 @@ This model uses the following libraries:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Plotly
+
 ## Code
 The code is provided in wine_quality_prediction.ipynb notebook file.You will also be required to use the included the wine_full.csv dataset file to complete your work.
